@@ -149,10 +149,6 @@ The website is deployed on **Hostinger cloud hosting** with a custom domain and 
 - Hosting on Hostinger ensured fast load speeds and stable uptime.  
 - “Tinker AI” chatbot adds customer support functionality.  
 
-### Future Improvements
-- **Technical**: Add a Point-of-Sale (POS) integration so vendors can sync physical and online store sales.  
-- **UX/Business**: Standardize size charts across vendors (e.g., AU sizes: 6, 8, 10) to avoid confusion and reduce product returns.  
-
 ---
 
 **Author**: *Randimal Herath*  
